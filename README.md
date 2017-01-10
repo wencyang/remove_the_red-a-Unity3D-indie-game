@@ -4,3 +4,5 @@ This is my first game made with Unity3D and C#,which was publiched to Apple App 
 
 I have to admit that the code was terrible back to 2 years ago, but my limited C# knowledge didn't stop me making a game, it won't stop you either
 
+A snapshot
+https://cloud.githubusercontent.com/assets/6386875/21795555/a1121e76-d6d0-11e6-91ad-8c7ce1d9f909.jpeg
