@@ -1,6 +1,6 @@
 # remove_the_red-an_Unity3D_game
 
-This is my first game made with Unity3D and C#, which was publiched to Apple App Store years ago. I think It's kind of an interesting and fun game. And it may be a good idea to share this project for many indie gamers and game making beginners.
+This is my first game made with Unity3D and C#, which was published to Apple App Store years ago. I think It's kind of an interesting and fun game. And it may be a good idea to share this project with many indie gamers and game making beginners.
 
 I have to admit that the code was terrible back to 2 years ago, but my limited C# knowledge didn't stop me making a game, it won't stop you either. Feel free to use the code if it can be of any help.
 
