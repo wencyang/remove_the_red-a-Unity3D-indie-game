@@ -1,4 +1,4 @@
-# remove_the_red-an_Unity3D_game
+# remove the red - an Unity3D indie game
 
 This is my first game made with Unity3D and C#, which was published to Apple App Store years ago. I think It's kind of an interesting and fun game where you drag one single stick out of a pile of sticks every time without moving the others. And it may be a good idea to share this project with many indie gamers and game making beginners.
 
